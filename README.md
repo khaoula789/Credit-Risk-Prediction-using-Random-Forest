@@ -3,6 +3,8 @@
 is to predict if a client would have financial
 difficulties in both coming years by using python and
 the 'random forest' algorithm
+
+
 Explanation of the variable names in the dataset:
 
 SeriousDlqin2yrs: This variable indicates whether an individual has had a serious delinquency in the past 2 years. It serves as the target variable for classification, with 0 representing no delinquency and 1 representing a delinquency.
